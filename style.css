@@ -1,0 +1,49 @@
+* {
+    /* box-sizing: border-box; */
+}
+
+body{
+    background-color: whitesmoke;
+}
+header{
+    background-color: thistle;
+    position: relative;
+    margin: 2%;
+
+}
+.one {
+    float: left;
+}
+h6{
+    /* padding: 2%; */
+    position: absolute;
+    left: 3%;
+    top: 8%;
+}
+header nav ul li{
+    vertical-align: top;
+    display: inline-block;
+    position: relative;
+    left: 75%;
+    
+
+    /* padding: 1%; */
+}
+
+
+
+main nav{
+    background:lightblue;
+    margin:0;
+    width: 96%;
+    height: 5px;
+    /* padding: 20px; */
+    display: block;
+    margin-right:2% ;
+    margin-left: 2%;
+
+}
+
+
+
+
